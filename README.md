@@ -1,4 +1,3 @@
-# VLSI_FIR
 # VLSI_FIR_Filter
 # Finite Impulse Response (FIR) Filter in Verilog
 This project implements a **configurable FIR Filter** in Verilog with a comprehensive testbench.  
